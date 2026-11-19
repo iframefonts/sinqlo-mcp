@@ -1,11 +1,11 @@
-# Sinqlo MCP
+# Sinqlo MCP — Design Systems for the AI Era
 
 [![Sinqlo MCP connector](https://glama.ai/mcp/connectors/com.sinqlo.mcp/sinqlo/badges/score.svg)](https://glama.ai/mcp/connectors/com.sinqlo.mcp/sinqlo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
 
 Official setup guide, configuration templates, and Claude Skill for the **[Sinqlo](https://sinqlo.com)** remote Model Context Protocol (MCP) server (`https://mcp.sinqlo.com/mcp`).
 
-Connect Claude, Claude Code, Cursor, Windsurf, or any MCP-compatible client to your live client brand kits in Sinqlo — logos, variations, colors (Hex/RGB/CMYK/Pantone), font stacks, design tokens, and permanent Brand Links — so AI agents stay on brand without guessing hex codes or using outdated logo files.
+Connect Claude, Claude Code, Cursor, Windsurf, or any MCP-compatible client to your live, lightweight design systems and brand kits in Sinqlo — logo variations, color roles & tokens (CSS/Tailwind/JSON/Hex/RGB/CMYK/Pantone), font stacks, plain-sentence brand rules, and permanent Brand Links — so AI agents stay on brand without guessing hex codes or using outdated logo files.
 
 - **Website:** https://sinqlo.com
 - **Official Docs:** https://sinqlo.com/claude/
