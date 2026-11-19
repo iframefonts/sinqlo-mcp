@@ -2,13 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.iframefonts/sinqlo-mcp",
   "title": "Sinqlo",
-  "description": "Agent-ready brand kits: live logos, colors, fonts, design tokens, and Brand Links via Sinqlo MCP.",
+  "description": "Design systems for the AI era: live logos, color tokens, fonts, brand rules, and Brand Links.",
   "websiteUrl": "https://sinqlo.com/claude/",
   "repository": {
     "url": "https://github.com/iframefonts/sinqlo-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
